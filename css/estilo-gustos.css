@@ -1,0 +1,86 @@
+.gustos{
+    margin: 50px;
+    background-color: #212429;
+    text-align: center;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.diseño{
+    text-align: right;
+    width: 600px;
+}
+.diseño-personalizado{
+    height: 250px;
+    border-radius: 20px;
+}
+.diseño2{
+    text-align: right;
+    width: 1100px;
+}
+.diseño-personalizado2{
+    height: 250px;
+    border-radius: 20px;
+}
+.linea1{
+    text-align: center;
+    color: orange;
+}
+.linea2{
+    text-align: center;
+    color: #212429;
+}
+.linea3{
+    text-align: center;
+    color: orange;
+}
+.linea4{
+    text-align: center;
+    color: #212429;
+}
+.linea5{
+    text-align: center;
+    color: orange;
+}
+.texto{
+    position:absolute;
+    top:0px;
+    left:600px;
+    width:520px;
+    margin-top:320px;
+    padding:3%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto2{
+    text-align: left;
+    position:absolute;
+    top:0px;
+    left:180px;
+    width:520px;
+    margin-top:600px;
+    padding:3%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto3{
+    position:absolute;
+    top:0px;
+    left:600px;
+    width:520px;
+    margin-top:920px;
+    padding:3%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto4{
+    text-align: left;
+    position:absolute;
+    top:0px;
+    left:180px;
+    width:520px;
+    margin-top:1210px;
+    padding:3%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

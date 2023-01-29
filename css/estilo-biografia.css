@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+.imagen-diseño{
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+}
+.biografia{
+    margin: 50px;
+    margin-top: 20px;
+    background-color: #1e2126;
+    text-align: center;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.imagen{
+    text-align: center;
+}
+.linea{
+    text-align: center;
+    color: #212429;
+}
+.nombre{
+    margin: 50px;
+    background-color: #212429;
+    text-align: center;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto{
+    position:absolute;
+    top:0px;
+    left:150px;
+    width:460px;
+    margin-top:620px;
+    padding:2%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto2{
+    position:absolute;
+    top:0px;
+    left:750px;
+    width:500px;
+    margin-top:620px;
+    padding:2%;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
